@@ -32,4 +32,3 @@ This mini project helps manage products in an e-commerce inventory with features
 
 ---
 
-## 📂 Project Structure
